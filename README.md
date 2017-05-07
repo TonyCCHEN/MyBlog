@@ -1,6 +1,6 @@
 # MyBlog is to track my blog posts listed below.
 
-1. NEXT-Lab.Motivation is Lifechanging(link:https://www.next-lab.ml)
-2. Not A Book. Calling Follower(link:https://www.notabook.cf)
-3. Tony See Packaging. Materials Learned(link:https://www.tonycpackaging.ml)
-4. Postach.io(link:http://tonydaybyday.postach.io/)
+1. NEXT-Lab (https://www.next-lab.ml)  - Motivation is Lifechanging (major)
+2. Not A Book (https://www.notabook.cf) - Calling Following
+3. TonySeePackaging (https://www.tonycpackaging.ml)  - Materials and Methods for IC Package Assemblies Learner
+4. Postach.io(http://tonydaybyday.postach.io/)  - Daily notes from Evernote
