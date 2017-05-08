@@ -4,13 +4,14 @@
 <br />
 <a href="http://dylandy.github.io/Easy-Git-Tutorial/" target="_blank">Git是分散式系統</a>的一種，在Open Source社群、程式開發、PaaS與共享經濟上早已常被使用，但一般人可能比較不大有感覺要如何使用，這邊想說將Git作為手殘人（如我）的保護機制。過程中就一直同步把文章的HTML格式Ctrl+A,C的方式貼到Git目錄下的一份文件(.md)做同步，同時也讓手機上可以編輯文章（blogger的編輯對於行動裝置的支援真的讓人傻眼.....希望晚點測試在iOS上的Safari或APP有比較好用 .)&nbsp; 於是參考Youtube開始動手把Blog Post透過類似的方式做版本追蹤，理想是做到像<a href="http://stackoverflow.com/questions/29297154/github-invalid-username-or-password/34919582" target="_blank">StackOverflow</a>、<a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank">WIKIPEDIA</a>讓別人協助更新內容。<br />
 <br />
-git使用到的指令如以下： <br />
-git init<br />
-git status<br />
-git add -A<br />
-git commit -m "This is to modify something or add something"<br />
-git pull<br />
-git push<br />
+git環境設定好之後，使用到的指令順序如以下： <br />
+<ol>
+<li>git status</li>
+<li>git add -A</li>
+<li>git commit -m "This is to modify something or add something"</li>
+<li>git pull</li>
+<li>git push</li>
+</ol>
 &nbsp;（P.S.邊看邊動手做比自己在那邊慢慢看<a href="https://git-scm.com/book/en/v2" target="_blank">ProGit</a>快多了....）<br />
 <div class="separator" style="clear: both; text-align: center;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/HVsySz-h9r4/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/HVsySz-h9r4?feature=player_embedded" width="320"></iframe></div>
