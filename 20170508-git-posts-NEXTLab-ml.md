@@ -1,4 +1,4 @@
-網誌文章位址<a href="https://www.next-lab.ml/2017/05/open-souce-gitmyblog-posts.html">
+<a href="https://www.next-lab.ml/2017/05/open-souce-gitmyblog-posts.html" target="_blank">網誌文章位址</a>
 
 
 <br />
