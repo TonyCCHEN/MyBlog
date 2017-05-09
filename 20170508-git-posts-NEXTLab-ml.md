@@ -24,8 +24,9 @@ git環境設定好之後，使用到的指令順序如以下(這邊直接用 mas
 不過這裡有個二階段認証的問題，導致以https
  clone Repository後，要把東西重新丟上去GitHub時始終卡在無法通過Username/Password認証來git 
 push文章上去（<a href="http://stackoverflow.com/questions/29297154/github-invalid-username-or-password/34919582" target="_blank">StackOverflow</a>），最後只好重新改以SSH 
-key來Clone Repo後才順利git push。另外在文章的格式上面需要注意的是如果以html儲存會無法閱讀，需要透過類似這個GitHub提供的(<a href="https://github.com/htmlpreview/htmlpreview.github.com" target="_blank">GitHub &amp; BitBucket HTML Preview</a>)才能預覽內容，所以.....在這邊乾脆直接以.md格式來命名存在本機上的檔案.<br />
+key來Clone Repo後才順利git push。另外在文章的格式上面需要注意的是如果以html儲存會無法閱讀，需要透過類似這個GitHub提供的(<a href="https://github.com/htmlpreview/htmlpreview.github.com" target="_blank">GitHub &amp; BitBucket HTML Preview</a>)才能預覽內容，所以.....在這邊乾脆直接以.md格式來命名存在本機上的檔案. 同時找到一個工具可以將<a href="http://www.atool.org/html2markdown.php" target="_blank">HTML轉換為MarkDown (可惜效果不佳XD)</a><br />
 <br />
+<a href="https://github.com/TonyCCHEN/MyBlog" target="_blank"> (Repository) TonyCChen/MyBlog</a><br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><a href="https://4.bp.blogspot.com/-UvSegXa08_4/WRA7wwg_cDI/AAAAAAACfiQ/y0CB6UbEPkMJeFLGK6txivjW1fFlfVTfwCKgB/s1600/Screenshot%2Bfrom%2B2017-05-08%2B16-46-16.png" style="margin-left: auto; margin-right: auto;"><img border="0" height="224" src="https://4.bp.blogspot.com/-UvSegXa08_4/WRA7wwg_cDI/AAAAAAACfiQ/y0CB6UbEPkMJeFLGK6txivjW1fFlfVTfwCKgB/s400/Screenshot%2Bfrom%2B2017-05-08%2B16-46-16.png" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">(Screen) git push to repository succeed</td></tr>
