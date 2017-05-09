@@ -135,10 +135,19 @@ https://Elastic IP:943/<br />
 <b><span style="font-family: &quot;courier new&quot; , &quot;courier&quot;; font-size: 10pt;"><span style="color: red;">sudo</span> openvpn --config client.ovpn</span></b><br />
 <br />
 <br />
-(2017-04-23) 今天上去查詢Billing 發現有0.01 USD! 流量目前也累計7.8GB了。看起來一直拿來使用當Spotify+AMAZON prime跳板聽音樂跟看電影好像也會多少有影響<br />
-<br />
+<div style="text-align: left;">
+(2017-04-23) 今天上去查詢Billing 發現有0.01 USD! 流量目前也累計7.8GB了。看起來一直拿來使用當Spotify+AMAZON prime跳板聽音樂跟看電影好像也會多少有影響</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-6WbW5EZxVWk/WPxhoTL1MZI/AAAAAAACeJI/zZcjb72tCW8-TPpvD8RCnFaDI63AjSnhgCKgB/s1600/IMG_7653.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://4.bp.blogspot.com/-6WbW5EZxVWk/WPxhoTL1MZI/AAAAAAACeJI/zZcjb72tCW8-TPpvD8RCnFaDI63AjSnhgCKgB/s320/IMG_7653.PNG" width="180" /></a></div>
 <br />
-<br /></div>
+BTW 在使用OpenVPN使用Spotify基本上就跟美國的免費用戶一樣，可以使用所有的功能（包括Running）這對於早起跑步的我還蠻有用的。<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://1.bp.blogspot.com/-bHGWqRlIdDQ/WREmi3pTpwI/AAAAAAACfmE/JtkLcSyh9kEbvSZskpcZmKudTGJEUaWCACKgB/s1600/IMG_8071.PNG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://1.bp.blogspot.com/-bHGWqRlIdDQ/WREmi3pTpwI/AAAAAAACfmE/JtkLcSyh9kEbvSZskpcZmKudTGJEUaWCACKgB/s320/IMG_8071.PNG" width="180" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Running</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://2.bp.blogspot.com/-jIa7ZdAzmRs/WREmi1KH4zI/AAAAAAACfmE/BHgGcfzi9sISLy_Mk3bMMmJSzS1u7DHQwCKgB/s1600/IMG_8084.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://2.bp.blogspot.com/-jIa7ZdAzmRs/WREmi1KH4zI/AAAAAAACfmE/BHgGcfzi9sISLy_Mk3bMMmJSzS1u7DHQwCKgB/s320/IMG_8084.JPG" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">5點的太陽</td></tr>
+</tbody></table>
+</div>
 
