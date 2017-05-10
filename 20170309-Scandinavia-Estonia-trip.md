@@ -8,11 +8,16 @@
 <ol>
 <li>2017-03-10 Tony &nbsp; &nbsp;初稿</li>
 <li>2017-03-23 Tony &nbsp; &nbsp;更新旅行縮影的影片內容</li>
+<li>2017-05-09 Tony &nbsp;&nbsp; 更新&lt; <a href="https://crossing.cw.com.tw/blogTopic.action?id=629&amp;nid=6221" target="_blank">從芬蘭看台灣：關於選擇，我們為何害孩子們如此茫然？</a>&gt;</li>
 </ol>
 以下內文：<br />
 <br />
-<i>「工欲善其事，必先利其器。居是邦也」</i>~魏靈公，&lt;論語&gt;<br />
-<i>"小孩有朝一日也會長大成人，他們也必須從歷史中學習，知道煽動和不允許有異議多麼容易讓人失去理性和人性。"</i>~ Ernust H. Gombrich<br />
+<div style="text-align: center;">
+<i>「工欲善其事，必先利其器。居是邦也」</i>~魏靈公，&lt;論語&gt;</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<i>"小孩有朝一日也會長大成人，他們也必須從歷史中學習，知道煽動和不允許有異議多麼容易讓人失去理性和人性。"</i>~ Ernust H. Gombrich</div>
 <br />
 在去年10月難得看到飛北歐的機票低於飛亞洲線的機票的價格，於是就給他手滑買下一家四口的座位後，直到今年過年才發現時間愈來愈靠近了，才在那邊想到底要去哪些地方？有哪些交通票需要買的，或是哪些住宿（後來發現睡交通工具上也不舒適或便宜,但可以省時）<br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -25,12 +30,9 @@ Inari, Finland</div>
 <tr><td style="text-align: center;"><a href="https://www.norwaynutshell.com/assets/fjordtours-umbraco/3594/fjordtours-kart-nin.jpg?mode=crop&amp;quality=100&amp;scale=both&amp;slimmage=true&amp;width=1920&amp;zoom=1&amp;404=default" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="144" src="https://www.norwaynutshell.com/assets/fjordtours-umbraco/3594/fjordtours-kart-nin.jpg?mode=crop&amp;quality=100&amp;scale=both&amp;slimmage=true&amp;width=1920&amp;zoom=1&amp;404=default" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Norway in a nutshell</td></tr>
 </tbody></table>
-<br />
 <div class="separator" style="clear: both; text-align: center;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/S59S2PQR3yI/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/S59S2PQR3yI?feature=player_embedded" width="320"></iframe></div>
-<br />
 <!--more--><br />
-<br />
 芬蘭極光長征（Helsinki, Rovaniemi Santa Claus Village, <a href="https://www.lonelyplanet.com/finland/lapland/inari" target="_blank">Inari</a>, Ivalo）<br />
 <div class="separator" style="clear: both; text-align: left;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Oejue7Q-roE/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/Oejue7Q-roE?feature=player_embedded" width="320"></iframe><iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/V3l1RYWk3e0/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/V3l1RYWk3e0?feature=player_embedded" width="320"></iframe></div>
@@ -40,12 +42,7 @@ Inari, Finland</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tallinn-old-town.jpg/413px-Tallinn-old-town.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="227" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tallinn-old-town.jpg/413px-Tallinn-old-town.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
-<br /></div>
-<div class="separator" style="clear: both; text-align: center;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/p6mJ7bbkDgg/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/p6mJ7bbkDgg?feature=player_embedded" width="320"></iframe></div>
-<br />
-<div class="separator" style="clear: both; text-align: center;">
-<br /></div>
 總共11個城鎮, 感覺像每天都扛著行李在移動...........然後空著行李箱回家<br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-NFPKMshlEEw/WMJCFjo5ARI/AAAAAAACam0/glKJ_VEJ1fk3yvHwyqPGDWGsrtIpihyEwCKgB/s1600/IMG_5612.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://3.bp.blogspot.com/-NFPKMshlEEw/WMJCFjo5ARI/AAAAAAACam0/glKJ_VEJ1fk3yvHwyqPGDWGsrtIpihyEwCKgB/s320/IMG_5612.JPG" width="240" /></a></div>
@@ -58,6 +55,7 @@ Inari, Finland</div>
 <li><a href="http://www.visitrovaniemi.fi/plan/" target="_blank">(Rovaniemi official) Plan to Rovaniemi</a></li>
 <li><a href="http://www.yidianzixun.com/article/0FE4g0Ck" target="_blank">在旅行中學會付出，學會謙卑，學會做一個有趣的人</a></li>
 <li><a href="http://okapi.books.com.tw/article/3621" target="_blank">【黃麗如專欄｜去你的文明】觀光客的胡亂殺價讓他們無法翻身 悼尼泊爾</a></li>
+<li><a href="https://crossing.cw.com.tw/blogTopic.action?id=629&amp;nid=6221" target="_blank">(換日線) 從芬蘭看台灣：關於選擇，我們為何害孩子們如此茫然？</a></li>
 </ol>
 <br />
 <i>行程與APP：</i><br />
@@ -69,19 +67,12 @@ Inari, Finland</div>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: left;">
 行程的部份如以下，只要搞定了連結點到點的工具後，就可以安心上路了:D，剩下就是耐著性子好好安撫小孩與跑馬拉松的毅力就好。</div>
-<br />
 <iframe height="480" src="https://www.google.com/maps/d/u/0/embed?mid=1m5QdLw6fQLINt3FKqS_xLx9kJ4I" width="640"></iframe><br />
 <i><br /></i>
-<i><br /></i>
-<i><br /></i>
-
-
 <i>行前在台灣準備的工具（本來想說順便準備一下，結果出去才發現還蠻必要的）：</i><br />
 <ol>
 <li><a href="https://stoneip.info/2016/04/18/onesim-world-travel-sim-card/91188/tech_style" target="_blank">OneSIM 140國可用上網卡</a>&nbsp;不限流量上網 SIM (14-days)：因為台灣的電信商再歐洲並沒有提供像是挪威、芬蘭、愛沙尼亞這三者的短期不限流方案，所以像湖畔或山區沒有人又沒有WiFi的情況蠻多的，還是把上網搞定比較安全，另外有SMS免費的功能</li>
 <li>Visa金融卡(Visa Debit Card) 並開通+PLUS通提：由於歐洲很多地方是只支援該卡(尤其廁所！），所以記得要把VISA金融卡搞定，並且存足夠的錢讓你能夠活著回來(也可以少換一點歐元)</li>
 <li>火鍋料理包：當初只是想說台灣超市賣的東西應該在歐洲買不到，有機會煮掉也不錯，到了當地才知道在這麼冷的地方要喝一碗熱湯也要300NTD以上，火鍋料裡真的很必要。搭車時碰到的台灣自助客還帶米跟電鍋，大家真是克苦耐勞XD</li>
 </ol>
-<div>
-<br /></div>
 
