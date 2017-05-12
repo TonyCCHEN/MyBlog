@@ -1,4 +1,4 @@
-<a href="https://www.next-lab.ml/2017/05/next-lab-now-exercise-to-loved-and.html",_target="blank">網誌文章位址</a>
+<a href="https://www.next-lab.ml/2017/05/next-lab-now-exercise-to-loved-and.html" target="_blank"> 網誌文章位址</a>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><a href="https://2.bp.blogspot.com/-xT4AssbOteY/WRSWUl3Hq8I/AAAAAAACfuE/_2ln46Ana1oqsgKzq11MlW6pV9pP2VEHACKgB/s1600/IMG_8363.PNG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://2.bp.blogspot.com/-xT4AssbOteY/WRSWUl3Hq8I/AAAAAAACfuE/_2ln46Ana1oqsgKzq11MlW6pV9pP2VEHACKgB/s320/IMG_8363.PNG" width="180" /></a></td></tr>
