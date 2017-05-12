@@ -1,4 +1,4 @@
-<a href="https://www.next-lab.ml/2017/05/blog-post_8.html" target="_blank">網誌文章位址</a><br />
+<a href="https://blog.next-lab.ml/2017/05/blog-post_8.html" target="_blank">網誌文章位址</a><br />
 
 巴菲特對於我們來說很遙遠，但拜網路所賜也很接近。我們可以在股東會後很快的就可以在上面看到他股東會的問答整理與分享。<br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -72,4 +72,3 @@
 巴菲特：中国现在作为一个比较新兴的市场，现在也是有全民的股市的参与。中国可能会有更多这方面的麻烦，会在这方面变得投机，当然我觉得投机是一个不太聪明的做法，需要非常多的运气才能做成这件事。当然投机会给投资者更多的机会，所以如果有很强的投机性，有很强的怀疑的话，我们会进入比较困难的经济环境。</div>
 <div class="art_t">
 &nbsp;.......</div>
-

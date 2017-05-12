@@ -1,4 +1,4 @@
-<a href="https://www.next-lab.ml/2017/05/open-souce-gitmyblog-posts.html" target="_blank">網誌文章位址</a>
+<a href="https://blog.next-lab.ml/2017/05/open-souce-gitmyblog-posts.html" target="_blank">網誌文章位址</a>
 
 <br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -22,8 +22,8 @@ git環境設定好之後，使用到的指令順序如以下(這邊直接用 mas
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/HVsySz-h9r4/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/HVsySz-h9r4?feature=player_embedded" width="320"></iframe></div>
 <!--more--><br />
 不過這裡有個二階段認証的問題，導致以https
- clone Repository後，要把東西重新丟上去GitHub時始終卡在無法通過Username/Password認証來git 
-push文章上去（<a href="http://stackoverflow.com/questions/29297154/github-invalid-username-or-password/34919582" target="_blank">StackOverflow</a>），最後只好重新改以SSH 
+ clone Repository後，要把東西重新丟上去GitHub時始終卡在無法通過Username/Password認証來git
+push文章上去（<a href="http://stackoverflow.com/questions/29297154/github-invalid-username-or-password/34919582" target="_blank">StackOverflow</a>），最後只好重新改以SSH
 key來Clone Repo後才順利git push。另外在文章的格式上面需要注意的是如果以html儲存會無法閱讀，需要透過類似這個GitHub提供的(<a href="https://github.com/htmlpreview/htmlpreview.github.com" target="_blank">GitHub &amp; BitBucket HTML Preview</a>)才能預覽內容，所以.....在這邊乾脆直接以.md格式來命名存在本機上的檔案. 同時找到一個工具可以將<a href="http://www.atool.org/html2markdown.php" target="_blank">HTML轉換為MarkDown (可惜效果不佳XD)</a><br />
 <br />
 <a href="https://github.com/TonyCCHEN/MyBlog" target="_blank"> (Repository) TonyCChen/MyBlog</a><br />
@@ -56,4 +56,4 @@ key來Clone Repo後才順利git push。另外在文章的格式上面需要注�
 （網路的生命期愈來愈短了,人所擁有的事物也是..... "Put yourself in others' shoes")<br />
 <br />
 文末：就像這篇文章原本打了大半.....然後手殘......ctrl+A.....del，就全部砍掉重練過....然後又經歷編輯時東西消失出現儲存中發生錯誤......blogger編輯器很不好用阿
-  為什麼不像Goodle Docs/Sheet..0rz&nbsp; 
+  為什麼不像Goodle Docs/Sheet..0rz&nbsp;

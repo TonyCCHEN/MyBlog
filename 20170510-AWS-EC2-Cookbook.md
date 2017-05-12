@@ -1,4 +1,4 @@
-<a href="https://www.next-lab.ml/2017/05/open-source-amazon-ec2-cookbook.html" target="_blank">網誌文章位址</a> 
+<a href="https://blog.next-lab.ml/2017/05/open-source-amazon-ec2-cookbook.html" target="_blank">網誌文章位址</a> 
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><a href="https://s-media-cache-ak0.pinimg.com/564x/f0/6d/fb/f06dfbb14582c1e57dfd0d9b32b61493.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://s-media-cache-ak0.pinimg.com/564x/f0/6d/fb/f06dfbb14582c1e57dfd0d9b32b61493.jpg" width="269" /></a></td></tr>

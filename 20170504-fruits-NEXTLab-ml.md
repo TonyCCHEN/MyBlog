@@ -1,4 +1,4 @@
-<a href="https://www.next-lab.ml/2017/05/blog-post.html" target="_blank">網誌文章位址</a>
+<a href="https://blog.next-lab.ml/2017/05/blog-post.html" target="_blank">網誌文章位址</a>
 
 <div>
 剛好有機會上了<a href="https://www.parenting.com.tw/article/5032815-%E5%8F%B0%E5%A4%A7%E6%95%99%E6%8E%88%E5%BC%B5%E6%96%87%E4%BA%AE%EF%BC%9A%E5%BE%9E%E6%95%99%E5%AE%A4%E9%80%83%E8%B5%B0%E7%9A%84%E5%A4%A9%E6%89%8D/" target="_blank">台大張文亮</a>教授的講座，如果說這個教授有什麼特別的地方，那就是他應該算是始祖鳥等級的問題學生XD<br />

@@ -1,4 +1,4 @@
- <a href="https://www.next-lab.ml/2017/04/open-source-amazon-web-serviceopenvpn.html" target="_blank">網誌文章位址</a>
+ <a href="https://blog.next-lab.ml/2017/04/open-source-amazon-web-serviceopenvpn.html" target="_blank">網誌文章位址</a>
 
 <a href="https://www.linux.com/blog/ubuntu-1604-lts-now-available-download" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"></a><a href="https://aws.amazon.com/" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" target="_blank"></a><a href="https://openvpn.net/index.php/access-server/docs/admin-guides/182-how-to-connect-to-access-server-with-linux-clients.html" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"><img alt="https://openvpn.net/index.php/access-server/docs/admin-guides/182-how-to-connect-to-access-server-with-linux-clients.html" border="0" height="43" src="https://docs.openvpn.net/wp-content/themes/openvpn/images/OP-Logo.png" width="200" /></a>+<img alt="https://aws.amazon.com/" border="0" height="73" src="https://images-na.ssl-images-amazon.com/images/G/01/webservices/aws_logo._V400518270_.png" width="200" />+<img alt="Xenial" border="0" src="http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/6886431_orig.png" height="141" width="200" /><br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -14,10 +14,10 @@
 <i><b>"Every drop in the ocean counts, and here's mine"</b></i></div>
 <div style="text-align: center;">
 <i><b><br /></b></i></div>
-網路的本質是開放，大多數的在情境下我們總希望我們的網路使用是不會被限制、監控或是管制的條件下使用。最有名的就是中國的網路長城，其次就是每個組織與機關的IT們的各自表述。透過VPN的方式（付費或是免費）是最快的方式，但是最後都會礙於頻寬限制而無法順利的在牆內看到外面的資料。無論是Google 
-服務、FB、或是其他影音網頁。以往常見的方式是在家裡的 NAS or WiFi AP上架設VPN 
+網路的本質是開放，大多數的在情境下我們總希望我們的網路使用是不會被限制、監控或是管制的條件下使用。最有名的就是中國的網路長城，其次就是每個組織與機關的IT們的各自表述。透過VPN的方式（付費或是免費）是最快的方式，但是最後都會礙於頻寬限制而無法順利的在牆內看到外面的資料。無論是Google
+服務、FB、或是其他影音網頁。以往常見的方式是在家裡的 NAS or WiFi AP上架設VPN
 server，但是如果長時間不在旁邊很難說不會有當機的狀況發生，而且同時也有安全上的疑慮（如果家用網路上設置VPN的server。）當然也可以單純的把家用WiFi
- AP當作VPN Client用，這樣安全性相對高，不過也是需要找個付費或免費的VPN Server（到頭來還是要花一次工？） 
+ AP當作VPN Client用，這樣安全性相對高，不過也是需要找個付費或免費的VPN Server（到頭來還是要花一次工？）
 既然都已經在用Ubuntu LTS了（前陣子雖然不慎把他砍掉重練...不對是還原），乾脆就安裝在<a href="https://aws.amazon.com/free/faqs/" target="_blank">12個月免費的AWS</a> <a href="https://aws.amazon.com/ec2/?nc2=h_m1" target="_blank">EC2</a>上。(每個月有750hrs，而且有許多知名的企業都是用這套精簡又24小時不打烊的容器。<br />
 <div class="separator" style="clear: both; text-align: center;">
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/TsRBftzZsQo/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/TsRBftzZsQo?feature=player_embedded" width="320"></iframe></div>
@@ -150,4 +150,3 @@ BTW 在使用OpenVPN使用Spotify基本上就跟美國的免費用戶一樣，�
 <tr><td class="tr-caption" style="text-align: center;">5點的太陽</td></tr>
 </tbody></table>
 </div>
-

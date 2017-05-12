@@ -1,4 +1,4 @@
-<a href="https://www.next-lab.ml/2017/03/12.html" target="_blank"> 網誌文章位址</a>
+<a href="https://blog.next-lab.ml/2017/03/12.html" target="_blank"> 網誌文章位址</a>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><a href="https://2.bp.blogspot.com/-m_chuXxAOks/WMEWjN4pRrI/AAAAAAACaeQ/90WpvK6moncDQvWEYM29NMeTYadPenh2wCKgB/s1600/IMG_8761.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="213" src="https://2.bp.blogspot.com/-m_chuXxAOks/WMEWjN4pRrI/AAAAAAACaeQ/90WpvK6moncDQvWEYM29NMeTYadPenh2wCKgB/s320/IMG_8761.JPG" width="320" /></a></td></tr>
@@ -75,4 +75,3 @@ Inari, Finland</div>
 <li>Visa金融卡(Visa Debit Card) 並開通+PLUS通提：由於歐洲很多地方是只支援該卡(尤其廁所！），所以記得要把VISA金融卡搞定，並且存足夠的錢讓你能夠活著回來(也可以少換一點歐元)</li>
 <li>火鍋料理包：當初只是想說台灣超市賣的東西應該在歐洲買不到，有機會煮掉也不錯，到了當地才知道在這麼冷的地方要喝一碗熱湯也要300NTD以上，火鍋料裡真的很必要。搭車時碰到的台灣自助客還帶米跟電鍋，大家真是克苦耐勞XD</li>
 </ol>
-
